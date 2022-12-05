@@ -1,0 +1,11 @@
+id,name,surname,phone_number,email,rating
+1,driver_1,driver_1_surname,0967776651,mail1@gmail.com,1.0
+2,driver_2,driver_2_surname,0967776652,mail1@gmail.com,5.0
+3,driver_3,driver_3_surname,0967776651,mail1@gmail.com,5.0
+4,driver_4,driver_4_surname,0667776651,mail1@gmail.com,4.0
+5,driver_5,driver_5_surname,0967876651,mail1@gmail.com,4.0
+6,driver_6,driver_6_surname,0967776654,mail1@gmail.com,3.0
+7,driver_7,driver_7_surname,0967766651,mail1@gmail.com,5.0
+8,driver_8,driver_8_surname,0967776651,mail1@gmail.com,5.0
+9,driver_9,driver_9_surname,0967756651,mail1@gmail.com,5.0
+10,driver_10,driver_10_surname,09647766510,mail1@gmail.com,4.0
